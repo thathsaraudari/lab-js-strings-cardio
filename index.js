@@ -31,7 +31,8 @@ console.log(newString);
 const string3 = "Na";
 
 // Your code here...
-
+const stringThree = string3.repeat(4);
+console.log(stringThree + " " + "Batman!");
 
 
 
